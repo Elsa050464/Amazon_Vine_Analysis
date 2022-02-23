@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 
-"C:\Users\esbus\Desktop\Class\Amazon_Vine_Analysis\Screen Shots\Vine logo.PNG"
+https://github.com/Elsa050464/Amazon_Vine_Analysis/blob/main/Vine%20logo.PNG?raw=true
 
 ## Overview
 Amazon Vine program is a member-based service that allows manufacturers and publishers to receive reviews of their products. Part of the Challenge is to compare and analyze reviews from both Vine and non-Vine buyers and to test if there are biased involved. 
