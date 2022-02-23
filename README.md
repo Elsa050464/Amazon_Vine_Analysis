@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 
-!![image](https://user-images.githubusercontent.com/93121665/155247745-3e9503c2-6496-41ed-b81d-5b055d82d7c0.png)
+                                        ![image](https://user-images.githubusercontent.com/93121665/155247745-3e9503c2-6496-41ed-b81d-5b055d82d7c0.png)
 
 
 ## Overview
@@ -13,7 +13,7 @@ I chose to review the ‘Furniture’ category
 There was a big gap among the number of reviewers non Vine  18,002 versus Vine members 136 but the variance who gave 5-star 7%  which I believe is unbiased. 
 Though reviews may be one of the factors we might consider in quantifying the business for online shopping but there are also other avenues to gauge them such as number of returns/Sales, no of views/hits ot total sales 
 
-!![image](https://user-images.githubusercontent.com/93121665/155247633-d9f8f474-bef9-402c-8d49-ed390d30423f.png)
+![image](https://user-images.githubusercontent.com/93121665/155247633-d9f8f474-bef9-402c-8d49-ed390d30423f.png)
 
  
 ## Challenges
