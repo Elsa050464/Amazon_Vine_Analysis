@@ -12,7 +12,7 @@ I chose to review the ‘Furniture’ category
 There was a big gap among the number of reviewers non Vine  18,002 versus Vine members 136 but the variance who gave 5-star 7%  which I believe is unbiased. 
 Though reviews may be one of the factors we might consider in quantifying the business for online shopping but there are also other avenues to gauge them such as number of returns/Sales, no of views/hits ot total sales 
 
-"C:\Users\esbus\Desktop\Class\Amazon_Vine_Analysis\Screen Shots\5-star Review.png"
+https://github.com/Elsa050464/Amazon_Vine_Analysis/blob/main/5-star Review.png
  
 ## Challenges
 I’m very anxious and conscious about the AWS usage as I’m hearing a lot that it may charge if you go beyond the capacity 
